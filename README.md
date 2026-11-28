@@ -1,4 +1,4 @@
-# CoreTide: Platform Overview
+# Coretide: Platform Overview
 
 > Building the technology your business runs on, and securing it from day one.
 
@@ -8,7 +8,7 @@ This repository documents the design and security thinking behind CoreTide. Prop
 
 ---
 
-## 🌊 What CoreTide does
+## 🌊 What Coretide does
 
 CoreTide is a technology, infrastructure and cybersecurity company for organisations that need systems they can trust. The work spans three areas:
 
@@ -29,7 +29,7 @@ CoreTide is a technology, infrastructure and cybersecurity company for organisat
 
 ---
 
-## 🛡️ CoreTide Console
+## 🛡️ Coretide Console
 
 The Console is CoreTide's security control centre. It's built around one idea: **every action on sensitive data must be justified, limited by policy, and recorded.**
 
@@ -63,7 +63,7 @@ Logged:    ✅ Audit log + Investigations
 
 ---
 
-## 🎓 CISE: CoreTide Institute of Security Engineering
+## 🎓 CISE: Coretide Institute of Security Engineering
 
 CISE is CoreTide's learning platform: structured courses and hands-on labs in cybersecurity.
 

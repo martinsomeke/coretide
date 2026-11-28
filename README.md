@@ -4,7 +4,7 @@
 
 **Founder & Lead Engineer:** [Martins Omeke](https://github.com/martinsomeke) · 🌐 [coretide.io](https://coretide.io) · 𝕏 [@CoretideHQ](https://x.com/CoretideHQ)
 
-This repository documents the design and security thinking behind CoreTide. Proprietary source code, client data and anything covered by NDAs are deliberately **not** included.
+This repository documents the design and security thinking behind Coretide. Proprietary source code, client data and anything covered by NDAs are deliberately **not** included.
 
 ---
 

@@ -10,7 +10,7 @@ This repository documents the design and security thinking behind CoreTide. Prop
 
 ## 🌊 What Coretide does
 
-CoreTide is a technology, infrastructure and cybersecurity company for organisations that need systems they can trust. The work spans three areas:
+Coretide is a technology, infrastructure and cybersecurity company for organisations that need systems they can trust. The work spans three areas:
 
 | Area | Focus |
 |---|---|
